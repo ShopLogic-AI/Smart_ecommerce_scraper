@@ -128,7 +128,10 @@ def main():
         "rowingblazers.com",
         "glossier.com",
         "onlyny.com",
-        "happymondaycoffee.com"
+        "happymondaycoffee.com",
+        "thesill.com",
+        "brooklinen.com",
+        "kitandace.com"
     ]
 
     conn = mysql.connector.connect(
